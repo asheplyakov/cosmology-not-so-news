@@ -34,8 +34,20 @@ Theoretical basis
 * ``Cosmological principle``: Universe is homogeneous and isotropic at the largest scale
 
 
+Experimental evidences
+----------------------
+
+* All remote (> 10Mpc) objects are red shifted (`Hubble's law`_)
+* `Cosmic microwave background`_
+* Primordial isotopic abundances (`Big Bang nucleosynthesis`_)
+
+.. _Hubble's law: https://en.wikipedia.org/wiki/Hubble%27s_law
+.. _`Big Bang nucleosynthesis`: https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis
+
+----
+
 Measuring the past expansion rate
----------------------------------
+=================================
 
 * `Brightness of distant type Ia supernovae`_
 * `Anisotropies of the cosmic microwave background_`
