@@ -14,7 +14,8 @@ Introduction: Big Bang cosmology
 
 ----
 
-.. figure:: http://scienceblogs.com/startswithabang/files/2009/08/bigbang.jpg
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/640px-CMB_Timeline300_no_WMAP.jpg 
+   :target: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/1280px-CMB_Timeline300_no_WMAP.jpg
 
    The history of our Universe expansion
 
